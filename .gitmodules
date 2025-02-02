@@ -1,0 +1,6 @@
+[submodule "Turbo-challenge-frontend"]
+	path = Turbo-challenge-frontend
+	url = https://github.com/dsalas/Turbo-challenge-frontend.git
+[submodule "Turbo-challenge-backend"]
+	path = Turbo-challenge-backend
+	url = https://github.com/dsalas/Turbo-challenge-backend
